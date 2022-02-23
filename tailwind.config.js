@@ -15,6 +15,8 @@ module.exports = {
     },
     extend: {
       colors: {
+        main_purp: '#643c5a',
+        main_purp_hov: '#4d2047',
         primary: {
           100: '#E6F6FE',
           200: '#C0EAFC',

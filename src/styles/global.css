@@ -3,3 +3,18 @@
 @tailwind components;
 
 @tailwind utilities;
+
+body {
+  background-image: url('/assets/images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.logo-img {
+  display: block;
+  max-width:420px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
